@@ -5,6 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
     mainButton.addEventListener('click', (e) => {
         e.preventDefault();
         // Add your link here
-        window.location.href = 'https://www.youtube.com/watch?v=nmn9mXBCsU8&ab_channel=Babyboi';
+        window.location.href = 'https://649f-2403-6200-8832-2fc2-5dfc-ceb8-32d3-dda0.ngrok-free.app';
     });
 });
