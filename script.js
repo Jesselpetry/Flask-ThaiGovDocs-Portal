@@ -5,6 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
     mainButton.addEventListener('click', (e) => {
         e.preventDefault();
         // Add your link here
-        window.location.href = 'https://fd2e-2403-6200-8832-2fc2-28bd-434c-13d3-6b11.ngrok-free.app';
+        window.location.href = 'https://youtu.be/nmn9mXBCsU8?si=ydVsEUpI-54oGabI';
     });
 });
